@@ -17,4 +17,27 @@
 .firstscreenheader__container{
     background-color: #005BC1;
     opacity: .6;
+    display: flex;
+}
+li{
+    list-style-type: none;
+    padding: 0;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+.logo-link{
+    margin-left: 7.62px;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 600;
+    max-width: 75px;
+    line-height: 120%;
+    letter-spacing: 3%;
+    font-family: 'Titillium Web',sans-serif;
+}
+.firstscreen-logo{
+    display: flex;
+    max-width: 140px;
 }
