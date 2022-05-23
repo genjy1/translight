@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.firstscreen{
+    background-image: url(./img/Rectangle\ 2.png);
+}
+.firstscreen-logo{
+    margin-left: 40px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+.firstscreenheader__container{
+    background-color: #005BC1;
+    opacity: .6;
+}
