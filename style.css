@@ -189,3 +189,19 @@ li{
     font-weight: lighter;
     color: #343434;
 }
+.catalog__choicer{
+    max-width: 211px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0 auto;
+}
+.choicer-link{
+    color: #343434;
+    font-size: 24px;
+    letter-spacing: 5%;
+}
+.choicer-link:focus{
+    color: #005bc1;
+    text-decoration: underline;
+}
