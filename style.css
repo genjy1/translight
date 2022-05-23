@@ -17,6 +17,7 @@
 .firstscreenheader__container{
     background-color: rgb(0, 91, 193,0.6);
     display: flex;
+    align-items: center;
 }
 li{
     list-style-type: none;
