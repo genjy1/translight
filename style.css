@@ -25,6 +25,9 @@ li{
 .link{
     color: white;
     text-decoration: none;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 14px;
 }
 .logo-link{
     margin-left: 7.62px;
