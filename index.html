@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TRANSLIGHT</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="slider.css">
     <link rel="shortcut icon" href="img/Group.svg" type="image/x-icon">
 </head>
 <body>
+    <script src="script/chief-slider.js"></script>
     <div class="firstscreen">
         <div class="firstscreenheader__container">
             <div class="firstscreen-logo">
@@ -41,22 +41,25 @@
     </div>
     <div class="slider__wrapper content">
         <div class="slider">
-            <div class="slider__wrapper">
-              <div class="slider__items">
-                <div class="slider__item">
-                  <!-- Контент 1 слайда -->
-                </div>
-                <div class="slider__item">
-                  <!-- Контент 2 слайда -->
-                </div>
-                <div class="slider__item">
-                  <!-- Контент 3 слайда -->
-                </div>
-              </div>
+
+            <!-- Первый слайд -->
+            <div class="slider-item">
+              <img src="https://media.tproger.ru/uploads/2020/07/field.jpg">
             </div>
-            <!-- Кнопки -->
-            <a href="#" class="slider__control" data-slide="prev"></a>
-            <a href="#" class="slider__control" data-slide="next"></a>
+          
+            <!-- Второй слайд -->
+            <div class="slider-item">
+              <img src="https://media.tproger.ru/uploads/2020/07/rose.jpg">
+            </div>
+          
+            <!-- Третий слайд -->
+            <div class="slider-item">
+              <img src="https://media.tproger.ru/uploads/2020/07/leaf.jpg">
+            </div>
+          
+            <!-- Кнопки-стрелочки -->
+            <a class="previous" onclick="previousSlide()">&#10094;</a>
+            <a class="next" onclick="nextSlide()">&#10095;</a>
           </div>
     </div>
 </body>
