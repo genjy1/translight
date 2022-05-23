@@ -43,3 +43,11 @@ li{
     display: flex;
     max-width: 140px;
 }
+.firstscreen__topmenu-list{
+    display: flex;
+    max-width: 454px;
+    justify-content: space-between;
+}
+.firstscreen__topmenu-list>li:not(:last-child){
+    margin-right:27.25px ;
+}
