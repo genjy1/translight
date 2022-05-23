@@ -213,6 +213,7 @@ li{
     justify-content: space-between;
     max-width: 1110px;
     margin: 0 auto;
+    margin-top: 50px;
 }
 .catalogslide-desc{
     left: 100px;
