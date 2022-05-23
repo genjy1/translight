@@ -44,6 +44,10 @@ li{
     display: flex;
     max-width: 140px;
 }
+.firstscreen__topmenu{
+    max-width: 1200px;
+    margin: 0 auto;
+}
 .firstscreen__topmenu-list{
     display: flex;
     max-width: 454px;
