@@ -56,3 +56,53 @@ li{
 .firstscreen__topmenu-list>li:not(:last-child){
     margin-right:27.25px ;
 }
+.content{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.content-stripe{
+    width: 444px;
+    height: 720px;
+    background-color: rgb(0, 91, 193,0.6);
+}
+.title{
+    color: white;
+    font-size: 48px;
+    font-family: 'Oswald';
+    font-weight: 400;
+}
+.firstscreen__content{
+    display: flex;
+}
+.content-title{
+    max-width: 635px;
+    letter-spacing: 1%;
+    margin-left: 41px;
+}
+.content__container{
+    margin-left: -254px;
+    margin-top: 202px;
+}
+.content-text{
+    max-width: 445px;
+    margin-top: 40px;
+}
+.text{
+    color: white;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 16px;
+}
+.btn{
+    padding: 15px 40px 15px 40px;
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    letter-spacing: 5%;
+    cursor: pointer;
+}
+.content-btn{
+    margin-top: 40px;
+}
