@@ -154,3 +154,7 @@ li{
     border-right: none;
     transform: rotate(180deg);
 }
+.container__title{
+    display: flex;
+    align-items: center;
+}
