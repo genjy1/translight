@@ -301,6 +301,7 @@ li{
 }
 .news{
     margin-top: 150px;
+    margin-bottom: 120px;
 }
 .news__wrapper{
     display: flex;
