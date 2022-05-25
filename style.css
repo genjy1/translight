@@ -380,3 +380,20 @@ li{
 .footer{
     background-color: #005bc1;
 }
+.footer__contacts{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 0px 29px;
+}
+.contacts-phone{
+    font-size: 18px;
+}
+.contacts-address{
+    font-size: 14px;
+    font-weight: 600;
+}
+.contacts-email{
+    font-size: 14px;
+    font-weight: 600;
+}
