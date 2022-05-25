@@ -416,3 +416,11 @@ li{
 .list-item:not(:last-child){
     padding-bottom: 10px;
 }
+.footer__copyrights{
+    padding: 25px 0px 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.copyright-text{
+    font-weight: 300;
+}
