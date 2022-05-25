@@ -365,3 +365,14 @@ li{
     font-size: 14px;
     margin-left: 25px 
 }
+.news-btn{
+    background-color: #005bc1;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 15px 34px 15px 34px;
+    margin-left: 661px;
+}
+.news__container-title{
+    justify-content: space-between;
+    max-width: 1110px;
+}
