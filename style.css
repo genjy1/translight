@@ -224,3 +224,6 @@ li{
 .catalogslide-desc>h3{
     color: white;
 }
+.slider__item-link{
+    text-decoration: none;
+}
