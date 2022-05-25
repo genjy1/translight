@@ -321,3 +321,15 @@ li{
     font-size: 14px;
     margin-left: 60px;
 }
+.main-text__wrapper-text{
+    margin-top: 42px;
+    color: #343434;
+    font-weight: 100;
+    font-size: 14px;
+    max-width: 255px;
+    margin-bottom: 21px;
+}
+.main-text__wrapper-link{
+    color: #343434;
+    font-size: 14px;
+}
