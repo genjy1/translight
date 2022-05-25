@@ -397,3 +397,22 @@ li{
     font-size: 14px;
     font-weight: 600;
 }
+.footer__links{
+    border-top: 1px solid white;
+    border-bottom:1px solid white;
+    padding: 25px 0px 25px;
+}
+.links__wrapper{
+    display: flex;
+    max-width: 551px;
+    justify-content: space-between;
+}
+.item-link{
+    color: white;
+    text-decoration: none;
+    font-family: 'Open Sans';
+    font-weight: 300;
+}
+.list-item:not(:last-child){
+    padding-bottom: 10px;
+}
