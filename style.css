@@ -303,6 +303,7 @@ li{
     margin-top: 150px;
 }
 .news__main-item{
+    margin-top: 77px;
     max-width: 540px;
     display: flex;
     justify-content: space-between;
