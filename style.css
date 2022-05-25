@@ -302,3 +302,22 @@ li{
 .news{
     margin-top: 150px;
 }
+.news__main-item{
+    max-width: 540px;
+    display: flex;
+    justify-content: space-between;
+}
+.main-img__wrapper-img{
+    max-width: 255px;
+}
+.main-text__wrapper-title{
+    font-size: 18px;
+    color: #343434;
+}
+.main-text__wrapper-title::after{
+    content: '27.01.2019';
+    color: #979797;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    margin-left: 60px;
+}
