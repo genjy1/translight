@@ -195,6 +195,7 @@ li{
     justify-content: space-between;
     text-align: center;
     margin: 0 auto;
+    margin-top: 70px;
 }
 .choicer-link{
     font-family: 'Oswald';
