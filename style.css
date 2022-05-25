@@ -328,6 +328,9 @@ li{
     font-size: 14px;
     margin-left: 60px;
 }
+.main-text__wrapper{
+    margin-left: 30px
+}
 .main-text__wrapper-text{
     margin-top: 42px;
     color: #343434;
