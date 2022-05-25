@@ -60,7 +60,7 @@ li{
     margin-right:27.25px ;
 }
 .content{
-    max-width: 1200px;
+    max-width: 1110px;
     margin: 0 auto;
 }
 .content-stripe{
@@ -305,6 +305,7 @@ li{
 .news__wrapper{
     display: flex;
     margin-top: 77px;
+    justify-content: space-between;
 }
 .news__main-item{
     max-width: 540px;
