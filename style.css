@@ -197,8 +197,10 @@ li{
     margin: 0 auto;
 }
 .choicer-link{
+    font-family: 'Oswald';
     color: #343434;
     font-size: 24px;
+    font-weight: 400;
     letter-spacing: 5%;
 }
 .choicer-link:focus{
